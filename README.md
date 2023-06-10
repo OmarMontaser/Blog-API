@@ -1,7 +1,7 @@
 # Blog-API
 
 
-### It is a simple Blog-API
+### It is a simple Blog-API for Beginner 
 
 i use express,multer,donenv,bcrypt and mongoose
 
@@ -11,7 +11,7 @@ there is an authentication module and crud operations for user,category and post
   
 1-instal node_modules by using this command "npm install node_modules"
  
-2-run server by using nodemon app.js command 
+2-run server by using "nodemon app.js" command 
 
 And you can test the project by using postman 
   

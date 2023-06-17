@@ -1,4 +1,4 @@
-# Blog-API
+# NodeJs Blog Demo REST api 
 
 
 ### It is a simple Blog-API for Beginner 
@@ -17,3 +17,22 @@ And you can test the project by using postman
   
     
        Have Fun 😁😁
+---------------------
+NodeJS Blog Demo REST API
+
+this is Modular Application that provides REST API for a Blog
+Features
+
+
+Technologies Used
+
+    ExpressJS
+    NodeJS
+    MongoDB
+
+Get Started
+
+    CLone the repo to your machine
+
+Then Run this command 
+    npm start

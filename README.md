@@ -13,9 +13,11 @@ Technologies Used
 Get Started
 
     CLone the repo to your machine
+    npm i node_modules
 
 Then Run this command 
+    
     npm start
 
 
-       Have Fun 😁😁
+                                                   Have Fun 😁😁
